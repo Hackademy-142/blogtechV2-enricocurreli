@@ -1,0 +1,104 @@
+body {
+    margin: 0px;
+    background:#dedfe3 ;
+}
+.my_cont{
+    margin-top: 100px;
+}
+.my_nav{
+    background-color: #5ca8ff;
+    font-family: "Gruppo", sans-serif;
+    font-weight:500;
+    font-style: normal;
+    font-size: 150%;
+    color: black;
+    box-shadow: 5px 10px 20px 2px #888888;
+    border-bottom: 2px solid #888888;
+    
+}
+
+.my_canvas_text{
+    color: black;
+}
+
+.search_icon{
+    font-size: 200%;
+    
+}
+
+li{
+    color: black;
+}
+
+li:hover{
+    text-decoration: underline;
+    
+}
+
+.btn_ctm{
+    
+    color: white !important;
+    font-weight: 600;
+    font-size: 15px;
+    background:#5ca8ff !important; /*#457EAC,#ffffff,#037171,#009FB7; */
+    
+}
+
+.btn_ctm:hover{
+    
+    
+    
+}
+
+h1  {
+    font-family: "Gruppo", sans-serif;
+    font-weight:500;
+    font-style: normal;
+    font-size: 500%;
+    color: black;
+}
+
+h2  {
+    font-family: "Gruppo", sans-serif;
+    font-weight:700;
+    font-style: normal;
+    font-size: 300%;
+    color: black;
+    
+}
+
+h3 ,h5 {
+
+    font-family: "Gruppo", sans-serif;
+    font-weight:700;
+    font-style: normal;
+    font-size: 150%;
+    color: black;
+
+}
+
+.text_blog_sx{
+    font-family: "Gruppo", sans-serif;
+    font-weight:400;
+    font-style: normal;
+    font-size: 200%;
+    color: black;
+    
+}
+
+.my_card{
+    border-bottom: 4px solid #5ca8ff;
+    
+}
+
+.position_sticky{
+    position: sticky;
+  top: 150px;
+}
+
+.bg-image {
+    background-image: url('media/fotoform.png');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+  }
